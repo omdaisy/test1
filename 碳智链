@@ -1,1 +1,104 @@
-<mxfile host="app.diagrams.net" modified="2022-05-15T09:21:37.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" version="17.2.4" etag="yEo4Girz4eXoyTK10Xpy" type="github"><diagram id="dweoatTXH5oL4-a01oLm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-15T10:15:51.076Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="bfMn2VEEXWFj-QWn4cTa" version="17.2.4" type="github">
+  <diagram id="dweoatTXH5oL4-a01oLm" name="Page-1">
+    <mxGraphModel dx="914" dy="503" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XDHnASxvXukrfIHBQSV6-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontColor=#000000;fillColor=#E6FFCC;" vertex="1" parent="1">
+          <mxGeometry x="416" y="335" width="174" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XDHnASxvXukrfIHBQSV6-11" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="95" y="306" width="254" height="202" as="geometry" />
+        </mxCell>
+        <mxCell id="XDHnASxvXukrfIHBQSV6-10" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="455" y="102" width="254" height="181" as="geometry" />
+        </mxCell>
+        <mxCell id="XDHnASxvXukrfIHBQSV6-1" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry y="93" width="254" height="181" as="geometry" />
+        </mxCell>
+        <mxCell id="XDHnASxvXukrfIHBQSV6-3" value="&lt;font face=&quot;Verdana&quot; color=&quot;#3333ff&quot;&gt;&lt;b&gt;九天平台&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="102" y="134" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XDHnASxvXukrfIHBQSV6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontFamily=Verdana;fontColor=#000000;strokeColor=#FF8000;" edge="1" parent="1" source="XDHnASxvXukrfIHBQSV6-5" target="XDHnASxvXukrfIHBQSV6-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XDHnASxvXukrfIHBQSV6-5" value="模型训练" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontColor=#003333;" vertex="1" parent="1">
+          <mxGeometry x="77" y="166" width="114" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="XDHnASxvXukrfIHBQSV6-6" value="在线推理" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontColor=#003333;" vertex="1" parent="1">
+          <mxGeometry x="77" y="205" width="114" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="XDHnASxvXukrfIHBQSV6-7" value="&lt;font face=&quot;Verdana&quot; color=&quot;#009999&quot;&gt;&lt;b&gt;CMBaaS平台&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="548" y="136" width="84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XDHnASxvXukrfIHBQSV6-8" value="存证能力" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontColor=#003333;" vertex="1" parent="1">
+          <mxGeometry x="533" y="169" width="114" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="XDHnASxvXukrfIHBQSV6-9" value="对账能力" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontColor=#003333;" vertex="1" parent="1">
+          <mxGeometry x="533" y="210" width="114" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="XDHnASxvXukrfIHBQSV6-12" value="&lt;div&gt;&lt;font color=&quot;#006600&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;碳智链-数字&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;储能平台&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="172" y="343" width="117" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XDHnASxvXukrfIHBQSV6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.118;entryY=1.098;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Verdana;fontColor=#006600;" edge="1" parent="1" source="XDHnASxvXukrfIHBQSV6-13" target="XDHnASxvXukrfIHBQSV6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XDHnASxvXukrfIHBQSV6-13" value="基站监控系统" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontColor=#003333;" vertex="1" parent="1">
+          <mxGeometry x="172" y="370" width="123" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="XDHnASxvXukrfIHBQSV6-14" value="蓄电池充放电模型" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontColor=#003333;" vertex="1" parent="1">
+          <mxGeometry x="172" y="403" width="123" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="XDHnASxvXukrfIHBQSV6-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontFamily=Verdana;fontColor=#663300;strokeColor=#FF8000;" edge="1" parent="1" source="XDHnASxvXukrfIHBQSV6-15" target="XDHnASxvXukrfIHBQSV6-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="203" y="497" />
+              <mxPoint x="532" y="497" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XDHnASxvXukrfIHBQSV6-15" value="削峰填谷动态规划模型" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontColor=#003333;" vertex="1" parent="1">
+          <mxGeometry x="172" y="436" width="123" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="XDHnASxvXukrfIHBQSV6-18" value="&lt;font color=&quot;#000000&quot;&gt;电池信息、机房信息等&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="95" y="288" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XDHnASxvXukrfIHBQSV6-21" value="模型&lt;br&gt;下发" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="9" y="294" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XDHnASxvXukrfIHBQSV6-24" value="&lt;font face=&quot;Verdana&quot; color=&quot;#663300&quot;&gt;&lt;b&gt;机房&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="461" y="343" width="84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XDHnASxvXukrfIHBQSV6-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Verdana;fontColor=#663300;strokeColor=#000000;" edge="1" parent="1" source="XDHnASxvXukrfIHBQSV6-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="296" y="391" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XDHnASxvXukrfIHBQSV6-25" value="动环监控模块" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontColor=#003333;" vertex="1" parent="1">
+          <mxGeometry x="446" y="376" width="114" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="XDHnASxvXukrfIHBQSV6-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Verdana;fontColor=#663300;endArrow=classic;endFill=1;strokeColor=#FF8000;" edge="1" parent="1" source="XDHnASxvXukrfIHBQSV6-26" target="XDHnASxvXukrfIHBQSV6-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XDHnASxvXukrfIHBQSV6-26" value="远程智能控制模块" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontColor=#003333;" vertex="1" parent="1">
+          <mxGeometry x="446" y="415" width="114" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="XDHnASxvXukrfIHBQSV6-28" value="&lt;font color=&quot;#000000&quot;&gt;电池信息、机房信息等&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="339" y="358" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XDHnASxvXukrfIHBQSV6-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontFamily=Verdana;fontColor=#663300;strokeColor=#FF8000;endArrow=none;endFill=0;" edge="1" parent="1" source="XDHnASxvXukrfIHBQSV6-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="264" y="497" as="targetPoint" />
+            <mxPoint x="264.25000000000006" y="465" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XDHnASxvXukrfIHBQSV6-34" value="控制充放电" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="339" y="469" width="92" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XDHnASxvXukrfIHBQSV6-40" value="&lt;font color=&quot;#000000&quot;&gt;计费信息上链&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontColor=#663300;" vertex="1" parent="1">
+          <mxGeometry x="603" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
