@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2022-08-11T01:58:05.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="18.1.3" etag="qwgHcU9E3tNBYgfW1Wp8" type="github"><diagram id="ECvIWN32Y2u9BBeomTdM">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-11T02:07:20.884Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="tTi0zxO9DlU15N_3boFa" version="18.1.3" type="github">
+  <diagram id="ECvIWN32Y2u9BBeomTdM" name="第 1 页">
+    <mxGraphModel dx="738" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="F-GGka1qnHux5004dhGq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F-GGka1qnHux5004dhGq-1" target="F-GGka1qnHux5004dhGq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F-GGka1qnHux5004dhGq-1" value="CMBaaS平台数据存证可信度服务立项采购梳理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="10" y="130" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F-GGka1qnHux5004dhGq-2" value="必要性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="130" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F-GGka1qnHux5004dhGq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F-GGka1qnHux5004dhGq-4" target="F-GGka1qnHux5004dhGq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F-GGka1qnHux5004dhGq-4" value="标准化流程不足（现状）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F-GGka1qnHux5004dhGq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="F-GGka1qnHux5004dhGq-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F-GGka1qnHux5004dhGq-5" value="引入司法链（实现方式）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="130" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F-GGka1qnHux5004dhGq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F-GGka1qnHux5004dhGq-6" target="F-GGka1qnHux5004dhGq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F-GGka1qnHux5004dhGq-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F-GGka1qnHux5004dhGq-6" target="F-GGka1qnHux5004dhGq-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F-GGka1qnHux5004dhGq-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F-GGka1qnHux5004dhGq-6" target="F-GGka1qnHux5004dhGq-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="200" />
+              <mxPoint x="390" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F-GGka1qnHux5004dhGq-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F-GGka1qnHux5004dhGq-6" target="F-GGka1qnHux5004dhGq-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F-GGka1qnHux5004dhGq-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F-GGka1qnHux5004dhGq-6" target="F-GGka1qnHux5004dhGq-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="200" />
+              <mxPoint x="390" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F-GGka1qnHux5004dhGq-6" value="全套服务（所需服务）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="180" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F-GGka1qnHux5004dhGq-11" value="存证服务" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="160" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="F-GGka1qnHux5004dhGq-15" value="三性证据梳理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="220" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="F-GGka1qnHux5004dhGq-17" value="下载证据包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="190" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="F-GGka1qnHux5004dhGq-19" value="司法鉴定报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="260" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
